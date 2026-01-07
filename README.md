@@ -19,8 +19,11 @@ The link of the list of problems: https://neetcode.io/practice/practice/neetcode
   - [✅] Group Anagrams
   - [✅] Top K Frequent Elements
   - [✅] Encode and Decode Strings
+  - [✅] Product of Array Except Self
+  - [✅] Valid Sudoku
 
 ### Upcoming
+- [] Longest Consecutive Sequence
 
 - Two Pointers Section:
   - [ ] Valid Palindrome
