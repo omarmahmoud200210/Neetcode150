@@ -44,3 +44,6 @@ function longestConsecutive2(nums: number[]): number {
 
   return longest;
 }
+
+
+console.log(longestConsecutive2([2, 20, 4, 10, 3, 4, 5]));

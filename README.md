@@ -6,7 +6,6 @@ The link of the list of problems: https://neetcode.io/practice/practice/neetcode
 
 ### In Progress
 - Two Pointers Section:
-  - [ ] Valid Palindrome
   - [ ] Two Sum II Input Array Is Sorted
   - [ ] 3Sum
   - [ ] Container With Most Water
@@ -23,6 +22,9 @@ The link of the list of problems: https://neetcode.io/practice/practice/neetcode
   - [✅] Product of Array Except Self
   - [✅] Valid Sudoku
   - [✅] Longest Consecutive Sequence
+
+- Two Pointers Section:
+  - [✅] Valid Palindrome
 
 ### Upcoming
 Sliding Window:

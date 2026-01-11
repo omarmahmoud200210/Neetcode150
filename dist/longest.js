@@ -18,3 +18,22 @@ function longestConsecutive(nums) {
 }
 ;
 console.log(longestConsecutive([2, 20, 4, 10, 3, 4, 5]));
+function longestConsecutive2(nums) {
+    if (nums.length === 0)
+        return 0;
+    const numSet = new Set(nums);
+    let longest = 0;
+    for (const num of numSet) {
+        if (!numSet.has(num - 1)) {
+            let current = 1;
+            let currentNum = num;
+            while (numSet.has(currentNum + 1)) {
+                current++;
+                currentNum++;
+            }
+            longest = Math.max(longest, current);
+        }
+    }
+    return longest;
+}
+console.log(longestConsecutive2([2, 20, 4, 10, 3, 4, 5]));
