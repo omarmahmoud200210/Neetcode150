@@ -6,7 +6,6 @@ The link of the list of problems: https://neetcode.io/practice/practice/neetcode
 
 ### In Progress
 - Two Pointers Section:
-  - [ ] Two Sum II Input Array Is Sorted
   - [ ] 3Sum
   - [ ] Container With Most Water
   - [ ] Trapping Rain Water
@@ -25,6 +24,7 @@ The link of the list of problems: https://neetcode.io/practice/practice/neetcode
 
 - Two Pointers Section:
   - [✅] Valid Palindrome
+  - [✅] Two Sum II Input Array Is Sorted
 
 ### Upcoming
 Sliding Window:
