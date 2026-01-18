@@ -5,8 +5,8 @@ Hi, I'm sharing my solutions to Neetcode problems (150 Problems).
 The link of the list of problems: https://neetcode.io/practice/practice/neetcode150
 
 ### In Progress
-- Two Pointers Section:
-  - [ ] Trapping Rain Water
+Sliding Window:
+- [ ] Best Time to Buy And Sell Stock
 
 ### Done
 - Arrays & Hashing Section:
@@ -25,10 +25,9 @@ The link of the list of problems: https://neetcode.io/practice/practice/neetcode
   - [✅] Two Sum II Input Array Is Sorted
   - [✅] 3Sum
   - [✅] Container With Most Water
+  - [✅] Trapping Rain Water
 
 ### Upcoming
-Sliding Window:
-- [ ] Best Time to Buy And Sell Stock
 - [ ] Longest Substring Without Repeating Characters
 - [ ] Longest Repeating Character Replacement
 - [ ] Permutation In String  
