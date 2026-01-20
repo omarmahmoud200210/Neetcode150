@@ -6,7 +6,7 @@ The link of the list of problems: https://neetcode.io/practice/practice/neetcode
 
 ### In Progress
 Sliding Window:
-- [ ] Best Time to Buy And Sell Stock
+- [ ] Longest Substring Without Repeating Characters
 
 ### Done
 - Arrays & Hashing Section:
@@ -27,8 +27,10 @@ Sliding Window:
   - [✅] Container With Most Water
   - [✅] Trapping Rain Water
 
+Sliding Window:
+- [✅] Best Time to Buy And Sell Stock
+
 ### Upcoming
-- [ ] Longest Substring Without Repeating Characters
 - [ ] Longest Repeating Character Replacement
 - [ ] Permutation In String  
 - [ ] Minimum Window Substring  
