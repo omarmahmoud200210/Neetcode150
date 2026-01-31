@@ -6,7 +6,7 @@ The link of the list of problems: https://neetcode.io/practice/practice/neetcode
 
 ### In Progress
 Sliding Window:
-- [ ] Minimum Window Substring  
+- [ ] liding Window Maximum 
 
 ### Done
 - Arrays & Hashing Section:
@@ -32,6 +32,6 @@ Sliding Window:
 - [✅] Longest Substring Without Repeating Characters
 - [✅] Longest Repeating Character Replacement
 - [✅] Permutation In String 
+- [✅] Minimum Window Substring  
 
 ### Upcoming 
-- [ ] liding Window Maximum 
