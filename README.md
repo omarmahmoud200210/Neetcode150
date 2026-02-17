@@ -5,10 +5,12 @@ Hi, I'm sharing my solutions to Neetcode problems (150 Problems).
 The link of the list of problems: https://neetcode.io/practice/practice/neetcode150
 
 ### In Progress
-Stack:
-- []  Min Stack 
+
+- Stack:
+  - [] Evaluate Reverse Polish Notation
 
 ### Done
+
 - Arrays & Hashing Section:
   - [✅] Contains Duplicate
   - [✅] Valid Anagram
@@ -27,20 +29,22 @@ Stack:
   - [✅] Container With Most Water
   - [✅] Trapping Rain Water
 
-Sliding Window:
-- [✅] Best Time to Buy And Sell Stock
-- [✅] Longest Substring Without Repeating Characters
-- [✅] Longest Repeating Character Replacement
-- [✅] Permutation In String 
-- [✅] Minimum Window Substring
-- [✅] Sliding Window Maximum 
+- Sliding Window:
+  - [✅] Best Time to Buy And Sell Stock
+  - [✅] Longest Substring Without Repeating Characters
+  - [✅] Longest Repeating Character Replacement
+  - [✅] Permutation In String
+  - [✅] Minimum Window Substring
+  - [✅] Sliding Window Maximum
+
+- Stack
+  - [✅] Valid Parentheses
+  - [✅] Min Stack
+
+### Upcoming
 
 Stack
-- [✅] Valid Parentheses 
 
-### Upcoming 
-Stack
-- []  Evaluate Reverse Polish Notation 
-- []  Daily Temperatures 
-- []  Car Fleet 
-- []  Largest Rectangle In Histogram 
+- [] Daily Temperatures
+- [] Car Fleet
+- [] Largest Rectangle In Histogram
