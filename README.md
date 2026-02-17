@@ -5,8 +5,8 @@ Hi, I'm sharing my solutions to Neetcode problems (150 Problems).
 The link of the list of problems: https://neetcode.io/practice/practice/neetcode150
 
 ### In Progress
-Sliding Window:
-- [ ] liding Window Maximum 
+Stack:
+- []  Min Stack 
 
 ### Done
 - Arrays & Hashing Section:
@@ -32,6 +32,15 @@ Sliding Window:
 - [✅] Longest Substring Without Repeating Characters
 - [✅] Longest Repeating Character Replacement
 - [✅] Permutation In String 
-- [✅] Minimum Window Substring  
+- [✅] Minimum Window Substring
+- [✅] Sliding Window Maximum 
+
+Stack
+- [✅] Valid Parentheses 
 
 ### Upcoming 
+Stack
+- []  Evaluate Reverse Polish Notation 
+- []  Daily Temperatures 
+- []  Car Fleet 
+- []  Largest Rectangle In Histogram 
