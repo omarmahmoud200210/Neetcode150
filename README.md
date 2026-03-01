@@ -7,7 +7,7 @@ The link of the list of problems: https://neetcode.io/practice/practice/neetcode
 ### In Progress
 
 - Stack:
-  - [] Evaluate Reverse Polish Notation
+  - [] Largest Rectangle In Histogram
 
 ### Done
 
@@ -40,11 +40,11 @@ The link of the list of problems: https://neetcode.io/practice/practice/neetcode
 - Stack
   - [✅] Valid Parentheses
   - [✅] Min Stack
+  - [✅] Evaluate Reverse Polish Notation
+  - [✅] Daily Temperatures
+  - [✅] Car Fleet
 
 ### Upcoming
 
 Stack
-
-- [] Daily Temperatures
-- [] Car Fleet
 - [] Largest Rectangle In Histogram

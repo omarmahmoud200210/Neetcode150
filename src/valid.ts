@@ -17,7 +17,9 @@ class Solution {
         stack.push(brackets[i]);
       } else {
         if (stack.length === 0) return false;
+
         if (opens[currentBracket]! === stack[stack.length - 1]) {
+          console.log(opens[currentBracket], stack[stack.length - 1])
           stack.pop();
         } else return false;
       }
@@ -26,3 +28,6 @@ class Solution {
     return stack.length === 0 ? true : false;
   }
 }
+
+const solution = new Solution();
+solution.isValid("()[]{}");
